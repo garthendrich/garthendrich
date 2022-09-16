@@ -21,9 +21,9 @@
 <div align="center">
     <h4 style="margin-bottom: 8px">Let's connect!</h4>
     <a href="mailto:garthendrich@gmail.com">
-        <img alt="garthendrich@gmail.com" src="https://img.shields.io/badge/garthendrich@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img alt="garthendrich@gmail.com" src="https://img.shields.io/badge/garthendrich@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/garthendrich/">
-        <img alt="garthendrich" src="https://img.shields.io/badge/garthendrich-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img alt="in/garthendrich" src="https://img.shields.io/badge/in%2Fgarthendrich-0077B5?style=flat&logo=linkedin&logoColor=white" />
     </a>
 </div>
